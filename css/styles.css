@@ -117,6 +117,7 @@ body {
     overflow: hidden;
     background-color: black;
     padding: 30px;
+    margin-bottom: 30px;
 
 }
 
@@ -148,9 +149,8 @@ body {
     background-color: black;
     height: 100%;
     width: 100%;
-    padding: 10px;
-    gap: 70px;
-    padding: 10px;
+    gap: 60px;
+    padding: 5px;
     overflow: hidden;
 }
 
