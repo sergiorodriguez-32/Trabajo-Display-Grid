@@ -46,6 +46,7 @@ body {
     height: 108%;
     width: 100%;
     overflow: hidden;
+    margin-top: 40px;
 
 }
 
@@ -79,7 +80,7 @@ body {
 
 .body__box--grid6 {
     grid-area: f;
-    height: 103%;
+    height: 100%;
     width: 100%;
     overflow: hidden;
 
